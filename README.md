@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## Process
 1. **Data Wrangling**: includes Gathering data, Assessing Data, and Cleaning Data and all code is available on ```Amelia_Fatikhah_Proyek_Analisis_Data.ipynb```.
 2. **Exploratory Data Analysis (EDA)**: includes explore and visualization & eplanatory analysis and all code is also available on ```Amelia_Fatikhah_Proyek_Analisis_Data.ipynb```.
-3.  **Data Visualization**: through streamlit, dashboard for this bike sharing analysis data is available with the usual command of:
+3.  **Data Visualization**: through streamlit, dashboard for this bike sharing analysis is available with the usual command of:
 ```
 cd Amelia_Fatikhah_Proyek_Analisis_Data.ipynb/dashboard
 streamlit run dashboard.py
