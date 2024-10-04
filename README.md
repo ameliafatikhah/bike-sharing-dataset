@@ -1,4 +1,4 @@
-# Amelia's-Take-On-Bike-Sharing-Data-Analysis
+# Amelia's Take On Bike Sharing Data Analysis
 Amel's Conclusion on Bike Sharing Data is on [Bike Sharing Streamlit](https://bike-sharing-dataset-wpjyhnfn8xdhwzctmczryd.streamlit.app/)
 
 ## Jump-Into
